@@ -7,10 +7,10 @@
  */
 
 // Pengaturan untuk koneksi ke database
-define('DB_SERVER', 'https://hcp.kotawaringinbaratkab.go.id:2083/');      // Server database, biasanya 'localhost' untuk pengembangan lokal
-define('DB_USERNAME', 'admin');         // Username database, default untuk XAMPP adalah 'root'
-define('DB_PASSWORD', '@TjilikRiwut2');             // Password database, default untuk XAMPP adalah kosong
-define('DB_NAME', 'kuis_db');          // Nama database yang telah Anda buat di phpMyAdmin
+define('DB_SERVER', 'ftpupload.net');      // Server database, biasanya 'localhost' untuk pengembangan lokal
+define('DB_USERNAME', 'ezyro_39708677');         // Username database, default untuk XAMPP adalah 'root'
+define('DB_PASSWORD', 'f38648701dc');             // Password database, default untuk XAMPP adalah kosong
+define('DB_NAME', 'ezyro_39708677_kuis_db');          // Nama database yang telah Anda buat di phpMyAdmin
 
 /*
  * Mencoba untuk membuat koneksi ke database MySQL menggunakan ekstensi MySQLi.
